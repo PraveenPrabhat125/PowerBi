@@ -7,3 +7,4 @@ A COVID-19 dashboard in Power BI is like a computer screen that shows pictures a
 
 
 People like doctors, government officials, and anyone interested in COVID-19 can use the dashboard to understand how the virus is spreading and make decisions about what to do to stop it.
+ 
